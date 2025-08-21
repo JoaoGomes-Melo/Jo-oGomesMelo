@@ -1,5 +1,5 @@
 ## Olá! Sou o João Vitor Gomes
-Atualmente estou realizando a formação no curso de ADS na faculdade São Pualo TechSchool
+Atualmente estou realizando a formação no curso de ADS na faculdade São Paulo TechSchool
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
